@@ -1,0 +1,70 @@
+h1 {
+    color: blue;
+    font-size: 25px;
+}
+
+
+
+h2 {
+    font-weight: bold;
+    color: aqua;
+}
+
+.Picture {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+
+.Logo {
+    height: 40px;
+    width: 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+button{
+    margin-bottom:  10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.prez {
+    width: 100%;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: rgba(0,0,0,0.1)
+}
+
+.design {
+    width: 100%;
+    text-align: center;
+}
+
+.dev {
+    width: 100%;
+    text-align: center;
+
+}
+
+
+.passion {
+    width: 100%;
+    text-align: center;
+
+}
+
+
+.reseaux {
+    width: 100%;
+    text-align: center;
+
+}
+
+li{
+    display: inline;
+}
